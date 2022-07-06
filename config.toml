@@ -1,4 +1,4 @@
-baseURL = 'https://guowei-gong.github.io/GoDeepDive'
+baseURL = 'https://guowei-gong.github.io/GoDeepDive.github.io'
 languageCode = 'en-us'
 title = 'Go Deep Dive'
 theme = "hugo-book"
